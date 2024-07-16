@@ -148,7 +148,7 @@ section .title{
 .home{
     display: flex;
     background: url("images/HomeScreenDog.jpg") no-repeat center;
-    height: auto;
+    height: 100vh;
     color: #fff;
     min-height: 500px;
     background-size: cover;
